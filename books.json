@@ -1,47 +1,27 @@
 [
-    {
-        "title": "Chronicles of Aetheria",
-        "description": "In a fantastical world where magic and technology coexist, follow the epic journey of four unlikely heroes as they seek to restore balance and harmony to their war-torn realm. 'Chronicles of Aetheria' is a thrilling high-fantasy adventure filled with breathtaking landscapes, intricate politics, and compelling characters. Uncover ancient secrets, face mythical creatures, and experience the true power of friendship. This book will transport readers to a world they won't want to leave.",
-        "price": 19.99
-    },
-    {
-        "title": "The Mind's Abyss",
-        "description": "In this gripping psychological thriller, delve into the depths of a troubled mind haunted by its past. 'The Mind's Abyss' follows psychiatrist Dr. Evelyn Carter as she attempts to unravel the enigmatic case of her patient, whose memories are shattered pieces of a puzzle. With each revelation, the line between reality and illusion blurs, leading to a shocking climax that will leave readers questioning their own perceptions of truth and sanity.",
-        "price": 16.99
-    },
-    {
-        "title": "The Galactic Odyssey",
-        "description": "Embark on an interstellar journey through the cosmos in 'The Galactic Odyssey.' Join Captain Alex Turner and her diverse crew of spacefarers as they navigate uncharted territories, face hostile alien races, and confront the ethical dilemmas of intergalactic exploration. This thrilling space opera will ignite the imaginations of science fiction enthusiasts, offering a blend of heart-pounding action and philosophical introspection.",
-        "price": 22.99
-    },
-    {
-        "title": "The Art of Serenity: A Guide to Mindful Living",
-        "description": "In this practical and inspiring self-help book, mindfulness expert Dr. Emily Roberts shares her wisdom on achieving inner peace and cultivating a balanced life. 'The Art of Serenity' offers step-by-step mindfulness techniques, meditation practices, and actionable strategies to manage stress, anxiety, and negative emotions. This book empowers readers to embrace the present moment and foster a deep sense of serenity in the midst of life's challenges.",
-        "price": 12.99
-    },
-    {
-        "title": "Culinary Adventures: A World Tasting Tour",
-        "description": "Embark on a culinary journey around the globe with 'Culinary Adventures.' This beautifully illustrated cookbook features a collection of delectable recipes from various cuisines, each capturing the essence of its cultural roots. From mouthwatering street food to elegant gourmet delights, aspiring chefs and food enthusiasts will savor the diversity of flavors found in these pages. Whether you're a seasoned cook or a kitchen novice, this book will add a dash of excitement to your culinary repertoire.",
-        "price": 29.99
-    },
-    {
-        "title": "newbook",
-        "description": "newdescriptionidgrurururururururururururururururururururururururururururururururururururururururururururururururururururururururu",
-        "price": 45.21
-    },
-    {
-        "title": "tititit",
-        "description": "uisugesgbesheiuseihsei",
-        "price": 45.21
-    },
-    {
-        "title": "thryeuye euesfhehs",
-        "description": "jksbfesb esuhf uieshui hihfise ihifhsbguierughdrghuird rggr grherrlgr;agarp hiae;h roea ro e.",
-        "price": 45.99
-    },
-    {
-        "title": "hhiefhie eisi ",
-        "description": "ikseu is ufh ibhu ybk ug euish e hsih ie h",
-        "price": 45.23
-    }
+  {
+    "title": "Chronicles of Aetheria",
+    "description": "In a fantastical world where magic and technology coexist, follow the epic journey of four unlikely heroes as they seek to restore balance and harmony to their war-torn realm. 'Chronicles of Aetheria' is a thrilling high-fantasy adventure filled with breathtaking landscapes, intricate politics, and compelling characters. Uncover ancient secrets, face mythical creatures, and experience the true power of friendship. This book will transport readers to a world they won't want to leave.",
+    "price": 19.99
+  },
+  {
+    "title": "The Mind's Abyss",
+    "description": "In this gripping psychological thriller, delve into the depths of a troubled mind haunted by its past. 'The Mind's Abyss' follows psychiatrist Dr. Evelyn Carter as she attempts to unravel the enigmatic case of her patient, whose memories are shattered pieces of a puzzle. With each revelation, the line between reality and illusion blurs, leading to a shocking climax that will leave readers questioning their own perceptions of truth and sanity.",
+    "price": 16.99
+  },
+  {
+    "title": "The Galactic Odyssey",
+    "description": "Embark on an interstellar journey through the cosmos in 'The Galactic Odyssey.' Join Captain Alex Turner and her diverse crew of spacefarers as they navigate uncharted territories, face hostile alien races, and confront the ethical dilemmas of intergalactic exploration. This thrilling space opera will ignite the imaginations of science fiction enthusiasts, offering a blend of heart-pounding action and philosophical introspection.",
+    "price": 22.99
+  },
+  {
+    "title": "The Art of Serenity: A Guide to Mindful Living",
+    "description": "In this practical and inspiring self-help book, mindfulness expert Dr. Emily Roberts shares her wisdom on achieving inner peace and cultivating a balanced life. 'The Art of Serenity' offers step-by-step mindfulness techniques, meditation practices, and actionable strategies to manage stress, anxiety, and negative emotions. This book empowers readers to embrace the present moment and foster a deep sense of serenity in the midst of life's challenges.",
+    "price": 12.99
+  },
+  {
+    "title": "Culinary Adventures: A World Tasting Tour",
+    "description": "Embark on a culinary journey around the globe with 'Culinary Adventures.' This beautifully illustrated cookbook features a collection of delectable recipes from various cuisines, each capturing the essence of its cultural roots. From mouthwatering street food to elegant gourmet delights, aspiring chefs and food enthusiasts will savor the diversity of flavors found in these pages. Whether you're a seasoned cook or a kitchen novice, this book will add a dash of excitement to your culinary repertoire.",
+    "price": 29.99
+  }
 ]
